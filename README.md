@@ -2,7 +2,7 @@
 
 Installation instructions are in the file INSTALL.
 
-THANKS: John Jolly, Lawrence Wade, Paul Russo, Paul Forgey, Luis Magaña,
+THANKS: John Jolly, Lawrence Wade, Paul Russo, Paul Forgey, Luis MagaÃ±a,
 	David Parker, Alain Deschenes, and Andre Pool.
 
 This program is designed to detect music files that contain the
